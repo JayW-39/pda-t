@@ -10,3 +10,5 @@ The aim is not to provide a completely accurate translation, but make the game p
 PDA-T won't translate PV-Based graphics such as stop signs and other similar objects.
 
 If there are any issues with the graphics used in the patch, such as odd-looking text, font mismatch, clipping, etc. Please report it as an issue.
+
+Thanks to lemon for the music note idea!
